@@ -3,7 +3,7 @@
 #define BRAKEANDTHROTTLE_H
 
 #include "bsp.h"
-#include "freertos.h"
+#include "FreeRTOS.h"
 
 /* Only declared public for use in CLI for mock testing */
 typedef enum ADC_Indices_t {

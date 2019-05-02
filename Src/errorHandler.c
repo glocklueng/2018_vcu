@@ -1,6 +1,6 @@
 #include <errorHandler.h>
 #include "main.h"
-#include "freertos.h"
+#include "FreeRTOS.h"
 #include "stdio.h"
 #include "stm32f7xx_hal.h"
 #include "VCU_F7_dtc.h"

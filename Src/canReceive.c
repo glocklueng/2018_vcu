@@ -8,7 +8,7 @@
 
 #include "VCU_F7_can.h"
 
-#include "freertos.h"
+#include "FreeRTOS.h"
 #include "task.h"
 #include "cmsis_os.h"
 
