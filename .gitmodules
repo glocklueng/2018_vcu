@@ -1,6 +1,6 @@
 [submodule "drivers"]
 	path = drivers
 	url = https://github.com/glocklueng/drivers.git
-[submodule "common-all"]
-	path = common-all
+[submodule "common"]
+	path = common
 	url = https://github.com/glocklueng/common.git
