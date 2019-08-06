@@ -3,4 +3,4 @@
 	url = https://github.com/glocklueng/drivers.git
 [submodule "common-all"]
 	path = common-all
-	url = https://github.com/glocklueng/common-all.git
+	url = https://github.com/glocklueng/common.git
