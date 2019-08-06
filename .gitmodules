@@ -1,6 +1,6 @@
 [submodule "drivers"]
 	path = drivers
-	url = git@bitbucket.org:waterloohybrid/drivers.git
+	url = https://github.com/glocklueng/drivers.git
 [submodule "common-all"]
 	path = common-all
-	url = git@bitbucket.org:waterloohybrid/common-all.git
+	url = https://github.com/glocklueng/common-all.git
